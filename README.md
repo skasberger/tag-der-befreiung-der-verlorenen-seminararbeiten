@@ -9,7 +9,8 @@ In dem Workshop werden wir verschollene Seminararbeiten allen frei und offen im 
 - Ort: DLE Forschungsservice und Nachwuchsförderung, Seminarraum 2, Berggasse 7, 1090 Wien
 - Trainer: [Stefan Kasberger](http://stefankasberger.at) (Open Knowledge Austria), Christopher Kittel, Sonja Fischbauer
 - [Website](http://www.wtz-ost.at/veranstaltungen/tag-der-befreiung-der-verlorenen-seminararbeiten/)
-
+- [Etherpad](http://pad.okfn.org/p/wissenbefreien)
+- [#wissenbefreien](https://twitter.com/search?f=tweets&q=%23wissenbefreien&src=typd)
 
 Die [Open Science Lecture Series](http://openscienceasap.org/education/courses/open-science-lecture-series-wtz-ost/) ist eine Kooperation zwischen WTZ Ost mit [openscienceASAP](http://openscienceasap.org), [Open Knowledge Austria](http://okfn.at) und der [Universität Wien](https://www.univie.ac.at/).
 
@@ -40,7 +41,8 @@ Der Inhalt steht, soweit nicht explizit anders erwähnt, unter der [Creative Com
 | 15:30 - 16:15 | Seminararbeit befreien |
 | 16:15 - 16:45 | Seminararbeit hochladen |
 | 16:45 - 17:00 | PAUSE |
-| 17:00 - 18:00 | Seminararbeit verbreiten |
+| 17:00 - 17:50 | Seminararbeit verbreiten |
+| 17:50 - 18:00 | Sum Up |
 | 18:00         | ENDE |
 
 
@@ -133,7 +135,7 @@ Damit sich Wissen überhaupt mal bewegen kann, muss es erst mal technisch betrac
 		a) Export aus Schreibsoftware in ODT Dateiformat wenn möglich
 		b) Öffnen des Dokumentes in Libre Office wenn möglich
 		c) Copy-Paste des Inhaltes in neues Libre Office Dokument
-3. Layout checken
+3. Layout prüfen
 
 
 ## SEMINARARBEIT BEFREIEN
@@ -147,7 +149,6 @@ Mit Hilfes des [Creative Commons License Chooser](https://creativecommons.org/ch
 Lizenz-Vermerk CC BY 4.0:
 ```
 Dieses Werk ist lizenziert unter einer Creative Commons Namensnennung 4.0 International Lizenz.
-
 ```
 
 **Fremdes Werk einbinden**
@@ -160,7 +161,6 @@ Suche eines freien Werkes:
 Vorlage für Text:
 ```
 TITLE by AUTHOR (LICENCE)
-
 ```
 
 Beispiel [Capsicum Chili Foto](https://de.wikipedia.org/wiki/Wikipedia:Hauptseite#/media/File:Capsicum1.jpg):
@@ -191,6 +191,11 @@ Das Werk ist jetzt zwar befreit aber noch immer auf unserem Laptop eingesperrt. 
 
 ## SEMINARARBEIT VERBREITEN
 
+[Twitter}(http://twitter.com/): wichtigstes Social Network der letzten Jahre für Akademiker
+Vorteile:
+- Sichtbarkeit
+- Feedback/Ideen
+- Vernetzung / Kooperationen 
 
 ## SUM UP
 Am Schluss wird es noch einen Circle (Sitzkreis) geben, in dem wir den Workshop noch kurz reflektieren.
