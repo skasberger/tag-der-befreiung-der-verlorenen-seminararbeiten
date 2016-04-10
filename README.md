@@ -190,12 +190,131 @@ Das Werk ist jetzt zwar befreit aber noch immer auf unserem Laptop eingesperrt. 
 [OpenDataPortal](http://www.opendataportal.at/): Das OpenDataPortal ist ein Metadaten-Katalog, in dem bereits veröffentlichte Daten eingetragen werden können und so einfacher für andere auffindbar werden, besonders für Leute in Österreich.
 
 ## SEMINARARBEIT VERBREITEN
+So, jetzt ist das Wissen an sich schon befreit und auch für alle zugänglich. Soweit die Theorie. Doch das Wissen möchte gerne viele Leute kennen lernen auf der ganzen Welt und fühlt sich auf unserem Repositorium noch ein bisschen einsam und unnütz. Den Wissen ist erst so richtig glücklich, wenn es auf andere Menschen trifft. Deswegen werden wir uns jetzt die hilfreichsten Werkzeuge und Plattformen ansehen, um unsere Seminararbeiten in die große weite Welt hinaus zu posaunen und so das Wissen auf Reisen schicken.
 
-[Twitter}(http://twitter.com/): wichtigstes Social Network der letzten Jahre für Akademiker
-Vorteile:
-- Sichtbarkeit
-- Feedback/Ideen
-- Vernetzung / Kooperationen 
+**Wissen braucht Freunde!**
+Auf welchen Kanälen verbreiten wir unser befreites Wissen?
+
++ [WordPress](https://wordpress.com/): Blogging Platform
+	- um kontinuierlich Wissen zu veröffentlichen. Kurze bis lange Posts. Looking behind the scences, Forschungstagebuch, etc.
++ [Slideshare](http://slideshare.net/): Stefan Kasberger: http://www.slideshare.net/cheeseman1983
+Analyse: Statistiken, besonders oft gesehen/ heruntergeladen, etc. Besonders oft gesehen/downgeloadet 
+Einbinden von Fremdwerken best practice: [Actor Network Theory](http://www.slideshare.net/cheeseman1983/introduction-actornetworktheory) Slide 14+15
++ [Twitter](http://twitter.com/)
+
+**Twitterpower**
+Beispiele für die Kraft und die Möglichkeiten von Twitter: 
++ Twitter Poster Conference: “Analytical Science Twitter Poster Conference (ASTPC)” organisiert durch die Royas Society of Chemistry (RSC). Erstmals am 5.-6. Februar 2015, mit üebr 80 postern und mehr als 200 TeilnehmerInnnen. Ein Foto vom eigenen Poster tweeten mit dem Hashtag [#RSCAnalytical Poster](https://twitter.com/search?q=%23rscanalyticalposter&src=typd), mit anderen diskutieren, sich austauschen etc. Wiederholt am 17.-18. März 2016. 
+Blog der Veranstalter: http://blogs.rsc.org/an/2016/02/02/analytical-science-twitter-poster-conference-2016/ Forschung dazu: http://f1000research.com/articles/4-798/v1
++ Aktion zum Tod von Open Aktivist Aaron Swartz  [#PDFtribute](https://twitter.com/search?q=%23pdftribute&src=hash) - [Hintergrund zur Story](http://techcrunch.com/2013/01/13/pdf-tribute/)
++ Open Access Button [@OA_Button](https://twitter.com/oa_button) 
++ Astrophysiker und Meme-Star Neil deGrasse Tyson [@NeilTyson](https://twitter.com/neiltyson)
+
+**Warum Twitter?**
++ Macht dich bekannt in deinem Feld → Kooperationen, Feedback, Zitationen 
++ Schneller, unmittelbarer Kontakt (vs. Email-Inbox-Lag) 
++ Baut dir eine aktive Präsenz als Fachfrau/Fachmann auf
++ Verbreite deine neuesten Publikationen/ Papers...
++ … und andere Neuigkeiten in deiner Karriere
++ Teilnahme an Konferenzen: Schafft neue Kontakte und mehr Präsenz -> beste Möglichkeit für neue Follower, Retweets 
++ wichtigstes Social Network der letzten Jahre für Akademiker
++ Feedback/Ideen
+
+**Was macht einen guten Tweet aus?**
+- Klar formuliert (einfach zu lesen)
+- In Kontext gesetzt
+- Klare Absicht (warum sagst du uns das?) 
+- Richtige Hashtags und Mentions 
+- Evtl. Bild / Animation
+
+**Twitter Basics***
+[Erste Schritte auf Twitter](https://support.twitter.com/categories/281)
+
+**Schöner Tweeten**
+_quelle: http://onlineacademic.wordpress.org_
+_**meh.**_
+“We need to care more about the welfare of unicorns in the war on rainbow planet”
+Instead you should find an article you agree with and Tweet about the article stating a FACT from within the article.
+_**WOW!**_
+“Unicorn refugees are starving when aid is available (link to information/article) #refugees #welfare #war“
+
+**Hashtags Hashtags Hashtags**
+\#scicomm 
+\#WissKomm
+\#twitterstorians (historians of twitter)
+\#ScholarSunday (find and recommend acad. scholars)
+\#scifri (science friday)
+\#ff (follow friday) 
+\#featurefriday 
+\#AcademicHipster
+\#highered [1](https://twitter.com/AcademicPain/status/716427874006335488)
+
+**Pimp your profile**
+- Profilbild: verwende dasselbe Profilbild auf allen Plattformen
+- einfacher Handle und Name (Twitter Handle =! Username)
+- Bio: Verwende Hashtags und @handles - wenn nach Hashtags gesucht wird, kommt dein Profil
+- Banner (Coverfoto) kann wechseln, für Promo-Zwecke verwenden (Konferenz, Projekt, Publikation, etc.), 
+- nutze Pinned Posts um auf Wichtiges aufmerksam zu machen
+
+**Twitter Guidelines**
+- Tweete regelmäßig 
+- Reagiere, wenn dich jemand antweetet (Benachrichtigungen einstellen via Email, Slack, App)
+- Kommuniziere mit anderen (favs, retweets, @reply, tag), nicht nur senden
+- Lerne die Hashtags deines Feldes und verwende sie
+- Suche dir aus, wem du folgst (alle Leader in deinem Fachbereich, neue Kontakte etc.) und kick Uninteressante raus (=! Facebook) 
+- Wenn du Links postest, setze sie in Kontext und reichere sie mit persönlichen Kommentaren an
+- Zeig deine Persönlichkeit, bleib dabei professionell-öffentlichkeitstauglich und bau dir daraus deine Twitter-Visitenkarte
+
+Optional:
+- Entdecke “What’s trending?” (Region einstellen)
+- Sortiere Leute in Listen
+- Nutze Tools (siehe unten)
+
+**Twitter Tools**
+_Analyse Tools:_
+- Native [Twitter Analytics](https://analytics.twitter.com/about)
+- [TweepsMap](http://tweepsmap.com)
+- [Twitonomy](http://www.twitonomy.com)
+- [FollowTheHashtag](http://www.followthehashtag.com)
+
+_Auch außerhalb von Twitter: [Altmetric](https://www.altmetric.com/) misst, wer über deine Forschung spricht._
+_Tools um Gruppenaccounts zu verwalten_
+- [Grouptweet](https://grouptweet.com/)
+- [Roundteam](https://roundteam.co)
+- [Tweetdeck](https://tweetdeck.twitter.com)
+
+Feine Twitteraccounts zur Inspiration: 
+- [@NeilTyson](https://twitter.com/neiltyson) (Neil deGrasse Tyson)
+- [@NASA](https://twitter.com/NASA) 
+- [@LSEImpactBlog](https://twitter.com/LSEImpactBlog)
+- [@Cmdr_Hadfield](https://twitter.com/Cmdr_Hadfield)
+- [@scienceokfnat](https://twitter.com/sscienceokfnat)
+- [@FWFOpenAccess](https://twitter.com/FWFOpenAccess)
+- [@OpenSciRadio](https://twitter.com/OpenSciRadio)
+- [@OECDStatistik](https://twitter.com/OECDStatistik)
+
+**Ressources**
+- [The Online Academic](https://onlineacademic.wordpress.com)
+- [Altmetric](https://www.altmetric.com/details/3044379)
+- [10 Commandments of Twitter for Academics (The Chronicle)](http://chronicle.com/article/10-Commandments-of-Twitter-for/131813)
+- [WissKomm - Hackathon für Wissenschaftskommunikation an der TU Wien](http://wisskomm.at)
+
+**Arbeitsteil**
+Twitter Profil erstellen oder vervollständigen: Bio mit #hashtags und @handles
+Identifiziere die 5 Leader deines Fachbereichs 
+Identifiziere die 5 wichtigsten Hashtags deines Fachbereichs
+Eigene Seminararbeit teilen → Mit dem Hashtag der Veranstaltung posten
+Inhalte anderer kommentieren → Seminararbeit und generell
+Inhalte anderer teilen → Seminararbeit und generell
+Mit dem Hashtag der Veranstaltung posten
+Bonus Aufgabe für alle, die früher fertig sind: Listen erstellen
+
+**Komm zur WissKomm**
+Die WissKomm ist ein Science Communication Hackathon an der TU Wien mit Prof. Peter Purgathofer, bei dem Studierende gemeinsam mit ExpertInnen aus den Bereichen Kommunikation, Design und Medien kreative Möglichkeiten ausprobieren, um wissenschaftliche Inhalte spannend zu erzählen. 
+http://wisskomm.at
+Feine Ergebnisse der WissKomm: 
+Instagram: Bad Interfaces: https://www.instagram.com/insta_science_comm/ 
+Vimeo: Zombie Attack: https://vimeo.com/146675993 
 
 ## SUM UP
 Am Schluss wird es noch einen Circle (Sitzkreis) geben, in dem wir den Workshop noch kurz reflektieren.
