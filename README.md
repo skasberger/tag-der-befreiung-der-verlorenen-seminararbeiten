@@ -1,13 +1,15 @@
 Tag der Befreiung der verlorenen Seminararbeiten
 ==============================
-
 Die natürliche Umgegung von Wissen ist die freie Wildbahn, und genau dorthin wollen wir gemeinsam wissenschaftliche Werke hin entlassen.
 
-In dem Workshop werden wir verschollene Seminararbeiten allen frei und offen im Internet zur Verfügung zu stellen. Dazu wird es eine Einführung in das Urheberrecht und in Open Science geben, bevor wir gemeinsam unsere Arbeiten in ein freies Dateiformat umwandeln, mit einer freien Lizenz kennzeichnen und auf ein offenes Repository hochladen. Zum Schluss werden wir noch gemeinsam unsere Arbeiten ins große weite Internet hinaus senden. 
+In dem Workshop werden wir verlorene Seminararbeiten finden und danach allen frei und offen im Internet zur Verfügung zu stellen. Dazu wird es eine Einführung in das Urheberrecht und in Open Science geben. Im praktischen Hauptteil werden wir gemeinsam unsere Arbeiten in ein freies Dateiformat umwandeln, mit einer freien Lizenz kennzeichnen und auf ein offenes Repository hochladen. Zum Schluss werden wir unsere Arbeiten ins große weite Internet hinaus senden. 
 
 - Datum: 7. April 2016, 13-18 Uhr
 - Ort: DLE Forschungsservice und Nachwuchsförderung, Seminarraum 2, Berggasse 7, 1090 Wien
-- Trainer: [Stefan Kasberger](http://stefankasberger.at) (Open Knowledge Austria), Christopher Kittel, Sonja Fischbauer
+- Trainer: 
+	- [Stefan Kasberger](http://stefankasberger.at) (Open Knowledge Austria)
+	- [Christopher Kittel](https://twitter.com/chris_kittel)  (Open Knowledge Austria)
+	- [Sonja Fischbauer](https://twitter.com/sonkiki) (Open Knowledge Austria)
 - [Website](http://www.wtz-ost.at/veranstaltungen/tag-der-befreiung-der-verlorenen-seminararbeiten/)
 - [Etherpad](http://pad.okfn.org/p/wissenbefreien)
 - [#wissenbefreien](https://twitter.com/search?f=tweets&q=%23wissenbefreien&src=typd)
@@ -15,7 +17,8 @@ In dem Workshop werden wir verschollene Seminararbeiten allen frei und offen im 
 Die [Open Science Lecture Series](http://openscienceasap.org/education/courses/open-science-lecture-series-wtz-ost/) ist eine Kooperation zwischen WTZ Ost mit [openscienceASAP](http://openscienceasap.org), [Open Knowledge Austria](http://okfn.at) und der [Universität Wien](https://www.univie.ac.at/).
 
 **Urheberrecht**
-Der Inhalt steht, soweit nicht explizit anders erwähnt, unter der [Creative Commons Namensnennung 4.0 Lizenz](https://creativecommons.org/licenses/by/4.0/).
+
+Die Inhalte stehen, soweit nicht explizit anders erwähnt, unter der [Creative Commons Namensnennung 4.0 Lizenz](https://creativecommons.org/licenses/by/4.0/).
 
 **Vorbereiten**
 - [Libre Office](https://de.libreoffice.org/) installieren
@@ -26,7 +29,7 @@ Der Inhalt steht, soweit nicht explizit anders erwähnt, unter der [Creative Com
 - eigener Laptop mit Netzteil
 	- Standard Browser (z. B. Firefox, Chrome)
 	- Software mit der die Seminararbeit verfasst wurde muss installiert sein.
-- Seminararbeiten: bitte eine wissenschaftliche Arbeit (Seminar-, Bachelor, Masterarbeit oder ähnliches), wo ihr den Text selber verfasst und, wenn enthalten, die Bilder selber entworfen/fotografiert habt. Die Arbeit sollte auf jeden Fall vom Umfang her überschaubar sein (~1-20 Seiten). Wichtig: Die Seminararbeit soll editierbar sein, also keine PDF's! 
+- Seminararbeiten: eine wissenschaftliche Arbeit (Seminar-, Bachelor, Masterarbeit oder ähnliches), wo ihr den Text selber verfasst und die Bilder selber entworfen bzw. fotografiert habt. Die Arbeit sollte auf jeden Fall vom Umfang her überschaubar sein (~1-20 Seiten). Wichtig: Die Seminararbeit soll editierbar sein, also keine PDF's, sondern das original File (z. B. *.doc). 
 
 ## ABLAUF
 
@@ -47,118 +50,198 @@ Der Inhalt steht, soweit nicht explizit anders erwähnt, unter der [Creative Com
 
 
 ## EINLEITUNG
-- Vorstellen der Trainer: Stefan Kasberger, Christopher Kittel, Sonja Fischbauer
+- Willkommen und Vorstellen
 - Grundidee des Workshops
 - WTZ Lecture Series vorstellen
-- Agenda
+- Agenda durchgehen
 - GitHub repository, Etherpad und Hashtag
 - Vorstellungsrunde
-	- 3 Hashtags
-	- Warum hier?
-	- Was wird erwartet?
-	- Wissenschaftlicher Hintergrund
+	- 3 Hashtags die euch als Person beschreiben
+	- Warum seid ihr hier?
+	- Welche Erwartungen habt ihr?
+	- Welchen wissenschaftlichen Hintergrund habt ihr?
 - Vorbereiten: 
 	- Twitter & Zenodo anmelden
 	- Libre Office runterladen und installieren
-
 
 ## OPEN SCIENCE
 
 
 
 ## URHEBER_INNENRECHT
-Das Urheber_innenrecht ist die rechtliche Grundlage für geistiges Eigentumder Urheber im weiteren Sinne ([Urheber_innenrecht Österreich](https://de.wikipedia.org/wiki/Urheberrecht_(%C3%96sterreich))).
+Das Urheber_innenrecht ist die rechtliche Grundlage für geistiges Eigentum der Urheber im weiteren Sinne ([Urheber_innenrecht Österreich](https://de.wikipedia.org/wiki/Urheberrecht_(%C3%96sterreich))).
 
-**Generell**
-- Urheber eines Werkes ist, wer es geschaffen hat. (§ 10. Abs. 1)
-- Bloße Ideen werden durch das Urheberrecht nicht geschützt. Sie können von anderen aufgegriffen, weitergeführt und ausgeführt werden; Geformte Gedanken werden erst geschützt, wenn sie in die Außenwelt treten;
-- Damit einer Schöpfung Werkscharakter zukommt, muss sie die Kreativität, also die geistige Schöpfungskraft eines Menschen zur Grundlage haben;
-- Weil nur natürliche Personen Werke schaffen können, können auch nur sie Urheberschaft begründen;
-- Für Werke der Literatur, der Tonkunst und der bildenden Künste von bekannten Urhebern (Kennzeichnung nach § 12) gilt die Regelschutzfrist von 70 Jahren nach dem Tode des Urhebers (ohne das Todesjahr selbst). Bei mehreren Urhebern endet es 70 Jahre nach Tod des letzten Miturhebers. Nach Ablauf der Frist stehen dem Urheber bzw. seinen Rechtsnachfolgern keine Verwertungsrechte und Persönlichkeitsrechte mehr zu.
-- die geistige Schöpfungskraft eines Menschen zur Grundlage haben;
-- Weil nur natürliche Personen Werke schaffen können, können auch nur sie Urheberschaft begründen;
+### Generell
 
-Die Nutzungsrechte an dem Werk können aber in einer Vielzahl unterschiedlicher Varianten an andere abgetreten werden. Zumeist handelt es sich dabei um Rechteverwerter wie Verlage, Musik-Konzerne oder Soziale Netzwerke. Beispiel: Ein Künstler kann die Zustimmung zur Verwendung seines Werkes als Hintergrund eines Werbeplakates wegen eines zu geringen Preises verweigern oder weil ihm sein Werk dafür zu schade ist. Ein Schriftsteller kann seine Namensnennung unterlassen, weil er anonym bleiben will oder weil er daraus einen finanziellen Nutzen erlangt (Ghostwriter).
+Auszüge aus dem [Bundesgesetz über das Urheberrecht an Werken der Literatur und der Kunst und über verwandte Schutzrechte (Urheberrechtsgesetz).](http://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001848) 
+- "Urheber eines Werkes ist, wer es geschaffen hat. (§ 10. Abs. 1)"
+- "Bloße Ideen werden durch das Urheberrecht nicht geschützt. Sie können von anderen aufgegriffen, weitergeführt und ausgeführt werden; Geformte Gedanken werden erst geschützt, wenn sie in die Außenwelt treten;"
+- "Damit einer Schöpfung Werkscharakter zukommt, muss sie die Kreativität, also die geistige Schöpfungskraft eines Menschen zur Grundlage haben;"
+- "Weil nur natürliche Personen Werke schaffen können, können auch nur sie Urheberschaft begründen;"
+- "Für Werke der Literatur, der Tonkunst und der bildenden Künste von bekannten Urhebern (Kennzeichnung nach § 12) gilt die Regelschutzfrist von 70 Jahren nach dem Tode des Urhebers (ohne das Todesjahr selbst). Bei mehreren Urhebern endet es 70 Jahre nach Tod des letzten Miturhebers. Nach Ablauf der Frist stehen dem Urheber bzw. seinen Rechtsnachfolgern keine Verwertungsrechte und Persönlichkeitsrechte mehr zu.
+- "Weil nur natürliche Personen Werke schaffen können, können auch nur sie Urheberschaft begründen;"
+- "Das Urheberrecht schützt sowohl die geistigen als auch die finanziellen Interessen des Urhebers."
+- "Der Urheber hat das Monopol, durch die Vergabe von Werknutzungsrechten und Werknutzungsbewilligungen anderen Nutzungsrechte einzuräumen; Dadurch hat er es in der Hand, seine geistigen und materiellen Interessen eigenständig wahrzunehmen."
 
+**Verwertungs- und Werknutzungsrechte (§§ 14–18a; §§ 26–32)**
 
-In der Wissenschaft sind sieht das dann meist wie folgt aus: ein_e Wissenschaftler_in ist zuallererst vollkommen im Besitz der Verwertungs- und Nutzungsrechte, tritt dann aber zumeist für das Veröffentlichen sämtliche Verwertungsrechte an einen Verlag ab. Der Verlag verkauft die Publikationen dann nach einbringen geringer Eigenleistung zu sehr hohen Preisen an die Universitäts-Bibliotheken retour, wobei sich der Verlag meist strenge Nutzungsrechte vorbehält gegenüber den Bibliotheken → keine Vervielfältigung, keine Nutzung mit automatischen Algorithmen, kein Text-Data-Mining, kein öffentliches Teilen der Inhalte, kein Nutzen der Inhalte ohne explizite Genehmigung.
+Die Nutzungsrechte an dem Werk können aber in einer Vielzahl unterschiedlicher Varianten an andere abgetreten werden. Zumeist handelt es sich dabei um Rechteverwerter wie Verlage, Musik-Konzerne oder Soziale Netzwerke (z. B. Facebook). Beispiel: Ein Künstler kann die Zustimmung zur Verwendung seines Werkes als Hintergrund eines Werbeplakates wegen eines zu geringen Preises verweigern oder weil ihm sein Werk dafür zu schade ist. Ein Schriftsteller kann seine Namensnennung unterlassen, weil er anonym bleiben will oder weil er daraus einen finanziellen Nutzen erlangt (Ghostwriter).
 
+**Urheber_innenrecht in der Wissenschaft**
 
-Wenn man geschlossene Werke nutzen möchte, muss man mit dem/der Rechteinhaber_in sich über die Nutzung einigen, was im Normalfall nur eine bestimmte Form der Nutzung mit bestimmten Rechten zu einem ausverhandelten Preis statt findet.
+In der Wissenschaft sind sieht das dann meist wie folgt aus: ein_e Wissenschaftler_in ist zuallererst vollkommen im Besitz der Verwertungs- und Nutzungsrechte an der geschaffenen Publikation, tritt dann aber zumeist für das Veröffentlichen sämtliche Verwertungsrechte an einen Verlag ab. Der Verlag verkauft die Publikationen dann nach einbringen geringer Eigenleistung zu sehr hohen Preisen an die Universitäts-Bibliotheken retour, wobei sich der Verlag meist die meisten Nutzungsrechte behält → keine Vervielfältigung, keine Nutzung mit automatischen Algorithmen, kein Text-Data-Mining, kein öffentliches Teilen der Inhalte, kein Nutzen der Inhalte ohne explizite Genehmigung.
 
+**Was tun, wenn man Nutzungsrechten an nicht-freien Werken haben möchte?**
 
-**Freie Lizenzen**
+Wenn man geschlossene Werke nutzen möchte, muss man mit dem/der Rechteinhaber_in sich über die Nutzung einigen, was im Normalfall nur eine bestimmte Form der Nutzung mit bestimmten Rechten zu einem ausverhandelten Preis statt findet. Hierzu muss man mit dem Rechteinhaber in Kontakt treten. Zumeist wird es einem nicht möglich gemacht werden, die erworbenen Werke unter einer freien Lizenz weiter zu geben, da dies gegen die Geschäftsinteressen von den Rechteinhabern ist.
 
+### Freie Lizenzen
 
 [Open Definition](http://opendefinition.org/): Frei sind Werke die allen zur Nutzung, Veränderung und Verbreitung frei zur Verfügung stehen.
 ```
 “Open means anyone can freely access, use, modify, and share for any purpose (subject, at most, to requirements that preserve provenance and openness).”
 ```
-Dies ist keine Lizenz, aber es gibt Urheber_innenrechts-Lizenzen die damit kompatibel sind. Creative Commons hat verschiedene Lizenzmodelle, wovon nur die [Creative Commons Namensnennung](https://creativecommons.org/licenses/by/4.0/), [Creative Commons Namensnennung-Weitergabe unter gleichen Bedingungen](https://creativecommons.org/licenses/by-sa/4.0/) und die [Creative Commons Zero](https://creativecommons.org/about/cc0/) (Public Domain / Gemeinfrei) mit der Open Definition kompatibel sind. Wir verwenden heute die Standardlizenz [Creative Commons Namensnennung 4.0](https://creativecommons.org/licenses/by/4.0/). 
+Die Open Definition ist keine Lizenz, aber es gibt Urheber_innenrechts-Lizenzen die damit kompatibel sind. [Creative Commons](https://creativecommons.org/) hat zum Beispiel verschiedene Lizenzbausteine, wovon nur die 
+- [Creative Commons Namensnennung](https://creativecommons.org/licenses/by/4.0/): CC BY, da nur Namensnennung erforderlich ist.
+- [Creative Commons Namensnennung-Weitergabe unter gleichen Bedingungen](https://creativecommons.org/licenses/by-sa/4.0/) CC BY-SA, da ein neues, daraus entstehendes Werk nur unter einer gleich freien Lizenz weiter gegeben werden darf (viraler Effekt, Copyleft)
+- und die [Creative Commons Zero](https://creativecommons.org/about/cc0/): CC0 (Public Domain / Gemeinfrei) da soweit in dem Rechtsraum möglich alle Rechte am Werk abgetreten werden
+mit der Open Definition kompatibel sind. 
 
-**Selber Urheber_in / Werke befreien**
+Nicht mit der Open Definition kompatible Lizenzbausteine sind: 
+- [Creative Commons Nicht-kommerziell](https://creativecommons.org/licenses/by-nc/4.0/): (CC NC), weil dadurch nicht alle das Werk nutzen dürfen. Ein großes Problem der non-commercial Klausel ist auch, das dies noch nie durchjudiziert worden ist und der Begriff nicht-kommerziell rechtlich sehr schwammig ist. Dies kann auch so ausgelegt werden, dass alle Organisationen, die Umsätze generieren, das Werk nicht verwenden können. Dies trifft oftmals auf Organisationen die man dabei gar nicht im Auge hat, wie zum Beispiel die Wikipedia, Zeitungen oder andere Open Projekte. 
+- [Creative Commons keine-Bearbeitung](https://creativecommons.org/licenses/by-nd/4.0/): (CC ND), weil das Verändern des Werkes nicht erlaubt ist.
 
+#### Selber Urheber_in / Werke befreien
+Wenn man selber Urheber_in eines Werkes ist, ist das befreien ganz einfach. Es muss beim Werk nur ein Verweis auf die Lizenz angeführt werden (z. B. Creative Commons Icon, Abkürzung für Lizenz) sowie Name der/s Urheber_in.
 
-Wenn man selber Urheber_in eines Werkes ist, ist das befreien ganz einfach. Es muss nur ein Verweis auf die Lizenz beim Werk angeführt werden (z. B. Creative Commons Icon, Abkürzung für Lizenz) sowie Name der/s Urheber_in.
-
-- Fotos: aufpassen bei Nahaufnahmen von Personen, wo Person zentrales Motiv ist (nicht Urheber_innenrecht sondern Persönlichkeitsrecht)
-- Text: selber geschrieben, Zitieren erlaubt (Zitationsrecht ist eine Ausnahmeregelung im Urheberrecht)
-
-Beachten bei Befreiung
+**Zu beachten**
 - freie Lizenz wählen
-- selber Autor des gesamten Werkes sein (Ausnahme: verwenden von freien Werken anderer)
+- selber Autor des gesamten! Werkes sein (Ausnahme: verwenden von freien Werken anderer)
 - Persönlichkeitsrechte
-- Markenrechte
+- Markenrechte: Logos von Unternehmen fallen nur selten unter den kreativ-schöpferischen Status des Urheber_innenrechts, aber es sind Markenrechte zu beachten.
 - Relevanz und Öffentlichkeit des Werkes verhindern größere Probleme
+- Fotos: Persönlichkeitsrechte. Aufpassen bei Nahaufnahmen von Personen, wo Person zentrales Motiv ist (nicht Urheber_innenrecht sondern Persönlichkeitsrecht)
+- Text: selber geschrieben, Zitieren erlaubt (Zitationsrecht ist eine Ausnahmeregelung im Urheberrecht)
+- Tabellen: selber gesammelt, Datenschutz
 
-**Freie Werke von anderer/n Urheber_innen nutzen**
+**Varianten für die Creative Commons Namensnennungs-Lizenz 4.0:**
 
+Beispiel Volltext:
+```
+Dieses Werk ist lizenziert unter einer Creative Commons Namensnennung 4.0 International Lizenz.
+```
 
-Dabei ist zu beachten, dass die Lizenzrichtlinien mit der eigenen Lizenz kompatibel sind.
+Beispiel Abkürzung:
+```
+CC BY 4.0
+```
 
-Wenn man ein fremdes Werk einbinden möchte sind folgende Informationen anzugeben:
-- Autor_in nennen
+Beispiel Logo: einfach nur das passende Logo für die Lizenz anführen. Die Logos können [hier](https://licensebuttons.net/l/) gefunden werden. CC BY → [https://licensebuttons.net/l/by/4.0/88x31.png](https://licensebuttons.net/l/by/4.0/88x31.png)
+![CC BY Logo](https://licensebuttons.net/l/by/4.0/88x31.png)
+
+#### Freie Werke von anderer/n Urheber_innen nutzen
+
+Um Werke zu finden die man Verwenden darf, empfehlen sich bekannte Quellen für freie Materialien (z. B. [Wikipedia](https://wikipedia.de/)) oder Suchmaschinen, die dies ermöglichen (Google Images: Suchoptionen → Nutzungsrechte setzen → "Zur Wiederverwendung und Veränderung gekennzeichnet", [Creative Commons Suche](https://search.creativecommons.org/)). Wichtig: Die meisten Werke im Internet und in der Wissenschaft tun das nicht, also aufpassen.
+
+Daher immer zuerst kontrollieren, ob der/die Rechteinhaber_in einem das Nutzen erlaubt. Im Falle der Creative Commons Namensnennung 4.0 Lizenz bedeutet dies, dass es keine Einschränkungen ausser das Nennen des Autors geben darf. Am einfachsten ist dies natürlich mit Werken, die mit der selben Lizenz ausgezeichnet wurden.
+
+Wenn das Werk mit einer restriktiveren freien Lizenz ausgezeichnet ist, darf man das Werk zwar verwenden, aber es muss explizit mit der restriktiveren Lizenz gekennzeichnet sein. Um das genauer zu erklären: Ein Werk unter CC BY darf auch Bilder mit CC BY-SA beinhalten, aber dies muss dann jedes Mal explizit und klar erkennbar angeführt werden. Dies führt zu Fehlern und Verwirrungen in der Nutzung und sollte wo es geht vermieden werden.
+
+Die Versionen der Creative Commons Lizenzen sind alle zueinander kompatibel.
+
+Die Creative Commons Lizenzen werden in nationales Rechte umgewandelt, weshalb es auch Varianten für AT gibt (siehe [CreativeCommons.at](http://creativecommons.at)) (die neuesten 4.0 Versionen sind noch nicht in nationale Recht übersetzt). Wir empfehlen das verwenden der International, Generic oder Unported Versionen, welche die Standard-Lizenzen und Ausgangsbasis für die nationalen Übersetzungen sind.
+
+Wenn man dann ein passendes Werk gefunden hat und man dieses nutzen möchte, sind folgende Informationen anzugeben:
+- Autor_in des Werkes nennen
 - Titel des Werkes nennen
-- Lizenz nennen
+- Lizenz unter welcher das Werk lizenziert ist nennen
 
+Um das freie Fremdwerk korrekt verwenden zu können, muss dieses nun in unserem Werk als solches korrekt gekennzeichnet werden. 
+Pflicht dabei sind Angabe von:
+- Autor_in des Werkes
+- Titel des Werkes
+- Lizenz des Werkes
+
+**Auszeichnungen**
+
+Es gibt keine Vorgabe, wie man die Lizenz mitsamt den Informationen am besten angibt. Die nötigen Daten müssen lediglich eindeutig erkennbar sein. Eine recht weit verbreitete Art ist wie folgt:
+```
+TITLE by AUTHOR (LICENCE)
+```
+
+auf das Beispiel [Capsicum Chili Foto](https://commons.wikimedia.org/wiki/File:Capsicum1.jpg) angewendet, muss beim Foto der Text:
+```
+Capsicum Chili by Togo (CC BY-SA)
+```
+angeführt werden.
+
+optionale Angaben (zumeist für HTML Veröffentlichungen):
+- [Link](https://de.wikipedia.org/wiki/Benutzer:Togo) zu Autor_in
+- [Link](https://commons.wikimedia.org/wiki/File:Capsicum1.jpg) zu Werk
+- [Link](https://creativecommons.org/licenses/by-sa/3.0/deed.en) zu Lizenz
+- [Creative Commons Icon](https://licensebuttons.net/) einfügen und verlinken
+- Version der Lizenz 
+- rechtliche Implementation (International, DE, AT, etc.)
+
+**Beispiel**
+
+![Capsicum Chili](https://upload.wikimedia.org/wikipedia/commons/a/a7/Capsicum1.jpg)
+[Capsicum Chili](https://de.wikipedia.org/wiki/Benutzer:Togo) by [Togo](https://de.wikipedia.org/wiki/Benutzer:Togo) ([CC BY-SA](https://creativecommons.org/licenses/by-sa/3.0))
+
+**Häufigsten Fehler und Probleme**
+
+Das größte Problem sind zumeist Bildwerke, an denen man nicht die Rechte hat oder die nicht selbst erstellt wurden. Ähnlich wie auf sozialen Plattformen im Internet (z. B. Facebook), sind auch die meisten Abbildungen, Scan-Ins, Fotos und Infografiken in wissenschaftlichen Arbeiten während des Studiums nicht gesetzmäßig erworben bzw. genutzt. 
 
 ## SEMINARARBEIT KONVERTIEREN
-Damit sich Wissen überhaupt mal bewegen kann, muss es erst mal technisch betrachtet das Gehen lernen. Dazu werden wir jetzt mal die technischen Voraussetzungen dafür schaffen, dass es sich bewegen kann und unsere Werke in ein freies Dateiformat umwandeln.
+Damit sich Wissen überhaupt mal bewegen kann, muss es erst mal technisch betrachtet das Gehen lernen. Dazu werden wir zuerst die technischen Voraussetzungen dafür schaffen, dass die Seminararbeit sich bewegen kann und unsere Werke in ein freies Dateiformat umwandeln.
 
 1. Seminararbeit auswählen
-	- Formate: Seminar-, Bachelor- oder Masterarbeiten oder andere wissenschaftliche Texte. umfang sollte nicht zu groß sein (~1-20 Seiten).
+	- Formate: Seminar-, Bachelor- oder Masterarbeiten oder andere wissenschaftliche Texte. Umfang sollte nicht zu groß sein (~1-20 Seiten).
 	- Beachten:
 		- selber Text verfasst (kein Copy-Paste)
-		- Fotos bzw. Grafiken selber erstellt, Persönlichkeitsschutzrechte
+		- Fotos bzw. Grafiken selber erstellt, Persönlichkeitsschutzrechte bei Fotos beachten
+		- Tabellen: wenn Daten eingetragen sind, muss man auch von diesen Urheber_in sein oder die vollen Nutzungsrechte besitzen 
 2. Dokument konvertieren in ein [freies Dateiformat](https://de.wikipedia.org/wiki/Offenes_Format)
-	- Doc 2 Libre Office: 
-		a) Export aus Schreibsoftware in ODT Dateiformat wenn möglich
-		b) Öffnen des Dokumentes in Libre Office wenn möglich
-		c) Copy-Paste des Inhaltes in neues Libre Office Dokument
+	- Doc 2 Libre Office. Hier gibt es verschiedene Varianten, wie das gemacht werden kann.
+		a) Export aus Schreibsoftware (z. B. MS Word) in ODT Dateiformat
+		b) Öffnen der Seminararbeit in Libre Office
+		c) Copy-Paste des Inhaltes aus original Dokument in ein neues Libre Office Dokument
 3. Layout prüfen
 
 
 ## SEMINARARBEIT BEFREIEN
-Also das Wissen kann sich jetzt schon bewegen, aber es ist noch nicht als freies Wissen markiert. Daher müssen wir ihm eine Open-Scherbe umhängen.
+Das Wissen kann sich jetzt bewegen, aber es ist noch nicht als freies Wissen markiert. Daher müssen wir ihm eine Open-Scherbe umhängen, bevor es ausgelassen werden kann.
 
-**Eigenes Werk lizenzieren**
+**Eigene Seminararbeit lizenzieren**
 
-Mit Hilfes des [Creative Commons License Chooser](https://creativecommons.org/choose/) die passende Lizenz auswählen und automatisch den Lizenz-Text erstellen lassen. Wir empfehlen [Creative Commons Namensnennung 4.0](https://creativecommons.org/licenses/by/4.0/) als Standardlizenz. 
+Mit Hilfes des [Creative Commons License Chooser](https://creativecommons.org/choose/) die passende Lizenz auswählen und Lizenz-Text erstellen lassen. Wir empfehlen [Creative Commons Namensnennung 4.0](https://creativecommons.org/licenses/by/4.0/) als Standardlizenz. Es gibt keine Anforderung, ausser dass die Lizenz des Werkes eindeutig erkennbar sein soll. 
 
-
-Lizenz-Vermerk CC BY 4.0:
+Volltext am Ende des Werkes vor den Referenzen angeben:
 ```
 Dieses Werk ist lizenziert unter einer Creative Commons Namensnennung 4.0 International Lizenz.
 ```
+Am besten zusätzlich noch eine eigene Überschrift "Urheber_innenrecht" für den Text erstellen und das [CC BY Logo](https://licensebuttons.net/l/by/4.0/88x31.png) hinzufügen.
 
 **Fremdes Werk einbinden**
 
 
 Suche eines freien Werkes:
-- Google Images: Suchoptionen → Nutzungsrechte setzen
+- Google Images: Suchoptionen → Nutzungsrechte setzen → "Zur Wiederverwendung und Veränderung gekennzeichnet" wählen. 
 - [Creative Commons Suche](https://search.creativecommons.org/)
 
-Vorlage für Text:
+Beachten:
+- Bei Werken die über Suchmaschinen gefunden werden muss immer noch auf der Internet-Seite des Werkes selber geprüft werden, um welche Lizenz es sich handelt. Suchmaschinen-Ergebnisse sind manchmal inkorrekt.
+- Weiters muss sichergestellt sein, dass man das Werk nutzen darf (siehe Urheber_innenrecht).
+
+2. Auszeichnen des fremden Werkes:
+Um das freie Fremdwerk korrekt verwenden zu können, muss dieses nun in unserem Werk als solches korrekt gekennzeichnet werden. Werke die nicht unter einer freien Lizenz stehen, dürfen an sich gar nicht verwendet werden ohne Nutzungserlaubnis des/der Rechteinhaber_in. Das heißt: Fotos von anderen Menschen dürfen nur verwendet werden, wenn sie eine freie Lizenz verwenden, die das Nutzen erlauben.
+
+Pflicht bei der Angabe sind:
+- Autor_in des Werkes
+- Titel des Werkes
+- Lizenz des Werkes
+
+Eine recht weit verbreitete Vorlage für Text:
 ```
 TITLE by AUTHOR (LICENCE)
 ```
@@ -166,13 +249,7 @@ TITLE by AUTHOR (LICENCE)
 Beispiel [Capsicum Chili Foto](https://de.wikipedia.org/wiki/Wikipedia:Hauptseite#/media/File:Capsicum1.jpg):
 ```
 Capsicum Chili by Togo (CC BY-SA)
-
 ```
-optionale Angaben:
-- [Link](https://de.wikipedia.org/wiki/Benutzer:Togo) zu Autor_in
-- [Link](https://commons.wikimedia.org/wiki/File:Capsicum1.jpg) zu Werk
-- [Link](https://creativecommons.org/licenses/by-sa/3.0/deed.en) zu Lizenz
-- [Creative Commons Icon](https://licensebuttons.net/) einfügen und verlinken
 
 ## SEMINARARBEIT HOCHLADEN
 Das Werk ist jetzt zwar befreit aber noch immer auf unserem Laptop eingesperrt. Wie ihr wisst, ist aber die freie Wildbahn die natürliche Umgebung von Wissen. Daher laden wir jetzt mal unsere Arbeiten auf ein offenes Repository im Internet hoch auf das dann jede und jeder zugreifen kann.
@@ -190,17 +267,22 @@ Das Werk ist jetzt zwar befreit aber noch immer auf unserem Laptop eingesperrt. 
 [OpenDataPortal](http://www.opendataportal.at/): Das OpenDataPortal ist ein Metadaten-Katalog, in dem bereits veröffentlichte Daten eingetragen werden können und so einfacher für andere auffindbar werden, besonders für Leute in Österreich.
 
 ## SEMINARARBEIT VERBREITEN
-So, jetzt ist das Wissen an sich schon befreit und auch für alle zugänglich. Soweit die Theorie. Doch das Wissen möchte gerne viele Leute kennen lernen auf der ganzen Welt und fühlt sich auf unserem Repositorium noch ein bisschen einsam und unnütz. Den Wissen ist erst so richtig glücklich, wenn es auf andere Menschen trifft. Deswegen werden wir uns jetzt die hilfreichsten Werkzeuge und Plattformen ansehen, um unsere Seminararbeiten in die große weite Welt hinaus zu posaunen und so das Wissen auf Reisen schicken.
+So, jetzt ist das Wissen an sich schon befreit und auch für alle zugänglich. Soweit die Theorie. Doch das Wissen möchte gerne viele Leute kennen lernen auf der ganzen Welt und fühlt sich auf unserem Repositorium noch ein bisschen einsam und unnütz. Den Wissen ist erst so richtig glücklich, wenn es auf andere Menschen trifft. Deswegen werden wir uns jetzt die hilfreichsten Tools und Plattformen ansehen, um unsere Seminararbeiten in die große weite Welt hinaus zu posaunen und so das Wissen auf Reisen zu schicken.
 
 **Wissen braucht Freunde!**
-Auf welchen Kanälen verbreiten wir unser befreites Wissen?
 
+Die wichtigsten Kanäle:
 + [WordPress](https://wordpress.com/): Blogging Platform
 	- um kontinuierlich Wissen zu veröffentlichen. Kurze bis lange Posts. Looking behind the scences, Forschungstagebuch, etc.
 + [Slideshare](http://slideshare.net/): Stefan Kasberger: http://www.slideshare.net/cheeseman1983
 Analyse: Statistiken, besonders oft gesehen/ heruntergeladen, etc. Besonders oft gesehen/downgeloadet 
 Einbinden von Fremdwerken best practice: [Actor Network Theory](http://www.slideshare.net/cheeseman1983/introduction-actornetworktheory) Slide 14+15
 + [Twitter](http://twitter.com/)
+
+weiter Plattformen:
+- [Youtube](http://youtube.com/): Videos
+- [Instagram](https://www.instagram.com/): Bilder und Videos. 
+- [Snapchat](https://www.snapchat.com/): Bilder und Videos. Besonders bei Jugendlichen unter 20 sehr verbreitet.
 
 **Twitterpower**
 Beispiele für die Kraft und die Möglichkeiten von Twitter: 
@@ -318,5 +400,11 @@ Vimeo: Zombie Attack: https://vimeo.com/146675993
 
 ## SUM UP
 Am Schluss wird es noch einen Circle (Sitzkreis) geben, in dem wir den Workshop noch kurz reflektieren.
+
+## Follow Up's
+- Seminararbeit auf dem [OpenDataPortal](http://opendataportal.at) eintragen.
+
+
+
 
 
