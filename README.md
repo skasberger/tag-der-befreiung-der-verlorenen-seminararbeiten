@@ -1,6 +1,6 @@
 Tag der Befreiung der verlorenen Seminararbeiten
 ==============================
-Die natürliche Umgegung von Wissen ist die freie Wildbahn, und genau dorthin wollen wir gemeinsam wissenschaftliche Werke hin entlassen.
+**Die natürliche Umgegung von Wissen ist die freie Wildbahn, und genau dorthin wollen wir gemeinsam wissenschaftliche Werke hin entlassen.**
 
 In dem Workshop werden wir verlorene Seminararbeiten finden und danach allen frei und offen im Internet zur Verfügung zu stellen. Dazu wird es eine Einführung in das Urheberrecht und in Open Science geben. Im praktischen Hauptteil werden wir gemeinsam unsere Arbeiten in ein freies Dateiformat umwandeln, mit einer freien Lizenz kennzeichnen und auf ein offenes Repository hochladen. Zum Schluss werden wir unsere Arbeiten ins große weite Internet hinaus senden. 
 
@@ -137,6 +137,8 @@ CC BY 4.0
 ```
 
 Beispiel Logo: einfach nur das passende Logo für die Lizenz anführen. Die Logos können [hier](https://licensebuttons.net/l/) gefunden werden. CC BY → [https://licensebuttons.net/l/by/4.0/88x31.png](https://licensebuttons.net/l/by/4.0/88x31.png)
+
+
 ![CC BY Logo](https://licensebuttons.net/l/by/4.0/88x31.png)
 
 #### Freie Werke von anderer/n Urheber_innen nutzen
@@ -269,6 +271,7 @@ Das Werk ist jetzt zwar befreit aber noch immer auf unserem Laptop eingesperrt. 
 ## SEMINARARBEIT VERBREITEN
 So, jetzt ist das Wissen an sich schon befreit und auch für alle zugänglich. Soweit die Theorie. Doch das Wissen möchte gerne viele Leute kennen lernen auf der ganzen Welt und fühlt sich auf unserem Repositorium noch ein bisschen einsam und unnütz. Den Wissen ist erst so richtig glücklich, wenn es auf andere Menschen trifft. Deswegen werden wir uns jetzt die hilfreichsten Tools und Plattformen ansehen, um unsere Seminararbeiten in die große weite Welt hinaus zu posaunen und so das Wissen auf Reisen zu schicken.
 
+### Die Plattformen
 **Wissen braucht Freunde!**
 
 Die wichtigsten Kanäle:
@@ -283,7 +286,9 @@ weiter Plattformen:
 - [Youtube](http://youtube.com/): Videos
 - [Instagram](https://www.instagram.com/): Bilder und Videos. 
 - [Snapchat](https://www.snapchat.com/): Bilder und Videos. Besonders bei Jugendlichen unter 20 sehr verbreitet.
+- [Wikipedia](https://www.wikipedia.de/): Bringt das erzeugte Wissen in die Welt. [7. populärste Internet-Seite](https://en.wikipedia.org/wiki/List_of_most_popular_websites).
 
+### Twitter
 **Twitterpower**
 Beispiele für die Kraft und die Möglichkeiten von Twitter: 
 + Twitter Poster Conference: “Analytical Science Twitter Poster Conference (ASTPC)” organisiert durch die Royas Society of Chemistry (RSC). Erstmals am 5.-6. Februar 2015, mit üebr 80 postern und mehr als 200 TeilnehmerInnnen. Ein Foto vom eigenen Poster tweeten mit dem Hashtag [#RSCAnalytical Poster](https://twitter.com/search?q=%23rscanalyticalposter&src=typd), mit anderen diskutieren, sich austauschen etc. Wiederholt am 17.-18. März 2016. 
@@ -309,27 +314,32 @@ Blog der Veranstalter: http://blogs.rsc.org/an/2016/02/02/analytical-science-twi
 - Richtige Hashtags und Mentions 
 - Evtl. Bild / Animation
 
-**Twitter Basics***
+#### Twitter Basics
 [Erste Schritte auf Twitter](https://support.twitter.com/categories/281)
 
 **Schöner Tweeten**
-_quelle: http://onlineacademic.wordpress.org_
-_**meh.**_
+
+[Quelle](http://onlineacademic.wordpress.org)
+
+_meh._
+
 “We need to care more about the welfare of unicorns in the war on rainbow planet”
-Instead you should find an article you agree with and Tweet about the article stating a FACT from within the article.
-_**WOW!**_
+
+
+_WOW!_
+
 “Unicorn refugees are starving when aid is available (link to information/article) #refugees #welfare #war“
 
 **Hashtags Hashtags Hashtags**
-\#scicomm 
-\#WissKomm
-\#twitterstorians (historians of twitter)
-\#ScholarSunday (find and recommend acad. scholars)
-\#scifri (science friday)
-\#ff (follow friday) 
-\#featurefriday 
-\#AcademicHipster
-\#highered [1](https://twitter.com/AcademicPain/status/716427874006335488)
+- \#scicomm 
+- \#WissKomm
+- \#twitterstorians (historians of twitter)
+- \#ScholarSunday (find and recommend acad. scholars)
+- \#scifri (science friday)
+- \#ff (follow friday) 
+- \#featurefriday 
+- \#AcademicHipster
+- \#highered [1](https://twitter.com/AcademicPain/status/716427874006335488)
 
 **Pimp your profile**
 - Profilbild: verwende dasselbe Profilbild auf allen Plattformen
@@ -352,19 +362,6 @@ Optional:
 - Sortiere Leute in Listen
 - Nutze Tools (siehe unten)
 
-**Twitter Tools**
-_Analyse Tools:_
-- Native [Twitter Analytics](https://analytics.twitter.com/about)
-- [TweepsMap](http://tweepsmap.com)
-- [Twitonomy](http://www.twitonomy.com)
-- [FollowTheHashtag](http://www.followthehashtag.com)
-
-_Auch außerhalb von Twitter: [Altmetric](https://www.altmetric.com/) misst, wer über deine Forschung spricht._
-_Tools um Gruppenaccounts zu verwalten_
-- [Grouptweet](https://grouptweet.com/)
-- [Roundteam](https://roundteam.co)
-- [Tweetdeck](https://tweetdeck.twitter.com)
-
 Feine Twitteraccounts zur Inspiration: 
 - [@NeilTyson](https://twitter.com/neiltyson) (Neil deGrasse Tyson)
 - [@NASA](https://twitter.com/NASA) 
@@ -375,36 +372,49 @@ Feine Twitteraccounts zur Inspiration:
 - [@OpenSciRadio](https://twitter.com/OpenSciRadio)
 - [@OECDStatistik](https://twitter.com/OECDStatistik)
 
-**Ressources**
+#### Twitter Tools
+
+**Analyse Tools:**
+- Native [Twitter Analytics](https://analytics.twitter.com/about)
+- [TweepsMap](http://tweepsmap.com)
+- [Twitonomy](http://www.twitonomy.com)
+- [FollowTheHashtag](http://www.followthehashtag.com)
+
+Auch außerhalb von Twitter: [Altmetric](https://www.altmetric.com/) misst, wer über deine Forschung spricht.
+
+**Tools um Gruppenaccounts zu verwalten**
+- [Grouptweet](https://grouptweet.com/)
+- [Roundteam](https://roundteam.co)
+- [Tweetdeck](https://tweetdeck.twitter.com)
+
+
+#### Arbeitsteil
+1. Twitter Profil erstellen oder vervollständigen: Bio mit #hashtags und @handles
+2. Identifiziere die 5 Leader deines Fachbereichs 
+3. Identifiziere die 5 wichtigsten Hashtags deines Fachbereichs
+4. Eigene Seminararbeit teilen → Mit dem Hashtag der Veranstaltung posten
+5. Inhalte anderer kommentieren → Seminararbeit und generell (Hashtag!)
+6. Inhalte anderer teilen (Re-Tweeten) → Seminararbeit und generell
+
+**Komm zur WissKomm**
+
+Die [WissKomm](http://wisskomm.at) ist ein Science Communication Hackathon an der TU Wien mit Prof. Peter Purgathofer, bei dem Studierende gemeinsam mit ExpertInnen aus den Bereichen Kommunikation, Design und Medien kreative Möglichkeiten ausprobieren, um wissenschaftliche Inhalte spannend zu erzählen. 
+
+Feine Ergebnisse der WissKomm: 
+- Instagram: [Bad Interfaces](https://www.instagram.com/insta_science_comm/) 
+- Vimeo: [Zombie Attack](https://vimeo.com/146675993) 
+
+## Resources
 - [The Online Academic](https://onlineacademic.wordpress.com)
 - [Altmetric](https://www.altmetric.com/details/3044379)
 - [10 Commandments of Twitter for Academics (The Chronicle)](http://chronicle.com/article/10-Commandments-of-Twitter-for/131813)
 - [WissKomm - Hackathon für Wissenschaftskommunikation an der TU Wien](http://wisskomm.at)
-
-**Arbeitsteil**
-Twitter Profil erstellen oder vervollständigen: Bio mit #hashtags und @handles
-Identifiziere die 5 Leader deines Fachbereichs 
-Identifiziere die 5 wichtigsten Hashtags deines Fachbereichs
-Eigene Seminararbeit teilen → Mit dem Hashtag der Veranstaltung posten
-Inhalte anderer kommentieren → Seminararbeit und generell
-Inhalte anderer teilen → Seminararbeit und generell
-Mit dem Hashtag der Veranstaltung posten
-Bonus Aufgabe für alle, die früher fertig sind: Listen erstellen
-
-**Komm zur WissKomm**
-Die WissKomm ist ein Science Communication Hackathon an der TU Wien mit Prof. Peter Purgathofer, bei dem Studierende gemeinsam mit ExpertInnen aus den Bereichen Kommunikation, Design und Medien kreative Möglichkeiten ausprobieren, um wissenschaftliche Inhalte spannend zu erzählen. 
-http://wisskomm.at
-Feine Ergebnisse der WissKomm: 
-Instagram: Bad Interfaces: https://www.instagram.com/insta_science_comm/ 
-Vimeo: Zombie Attack: https://vimeo.com/146675993 
 
 ## SUM UP
 Am Schluss wird es noch einen Circle (Sitzkreis) geben, in dem wir den Workshop noch kurz reflektieren.
 
 ## Follow Up's
 - Seminararbeit auf dem [OpenDataPortal](http://opendataportal.at) eintragen.
-
-
 
 
 
