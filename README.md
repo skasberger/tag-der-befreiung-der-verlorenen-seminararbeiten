@@ -282,7 +282,7 @@ Analyse: Statistiken, besonders oft gesehen/ heruntergeladen, etc. Besonders oft
 Einbinden von Fremdwerken best practice: [Actor Network Theory](http://www.slideshare.net/cheeseman1983/introduction-actornetworktheory) Slide 14+15
 + [Twitter](http://twitter.com/)
 
-weiter Plattformen:
+weitere Plattformen:
 - [Youtube](http://youtube.com/): Videos
 - [Instagram](https://www.instagram.com/): Bilder und Videos. 
 - [Snapchat](https://www.snapchat.com/): Bilder und Videos. Besonders bei Jugendlichen unter 20 sehr verbreitet.
@@ -319,16 +319,13 @@ Blog der Veranstalter: http://blogs.rsc.org/an/2016/02/02/analytical-science-twi
 
 **Schöner Tweeten**
 
-[Quelle](http://onlineacademic.wordpress.org)
-
 _meh._
-
 “We need to care more about the welfare of unicorns in the war on rainbow planet”
 
-
 _WOW!_
-
 “Unicorn refugees are starving when aid is available (link to information/article) #refugees #welfare #war“
+
+[Quelle](http://onlineacademic.wordpress.org)
 
 **Hashtags Hashtags Hashtags**
 - \#scicomm 
@@ -339,7 +336,7 @@ _WOW!_
 - \#ff (follow friday) 
 - \#featurefriday 
 - \#AcademicHipster
-- \#highered [1](https://twitter.com/AcademicPain/status/716427874006335488)
+- \#highered [funny #Caturday](https://twitter.com/AcademicPain/status/716427874006335488)
 
 **Pimp your profile**
 - Profilbild: verwende dasselbe Profilbild auf allen Plattformen
