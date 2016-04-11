@@ -66,7 +66,32 @@ Die Inhalte stehen, soweit nicht explizit anders erwähnt, unter der [Creative C
 
 ## OPEN SCIENCE
 
+### Die Bewegung
 
+* Open Science hat als Ziel, Wissen und Wissenschaft zu öffnen, nutzbar, wiederverwendbar und teilbar zu machen. Für alle, ohne Ausnahme und Einschränkung.
+* Was *offen* bedeutet, ist in der [Open Definition](http://opendefinition.org/) genau beschrieben:
+
+> Open means anyone can freely access, use, modify, and share for any purpose (subject, at most, to requirements that preserve provenance and openness).
+
+* Es gibt zwei Creative Commons-Lizenzen die diese Bedingungen erfüllen und daher OpenDefinition-kompatibel sind: Creative Commons Namensnennung und Creative Commons Namensnennung mit Weitergabe unter gleichen Bedingungen (mehr dazu im Teil [Urheber_innenrecht](#urheber_innenrecht)).
+
+### Die Idee
+
+Open Science beinhaltet mehrere Aspekte (beschrieben in [P. Kraker, 2011: The case for an open science in technology enhanced
+learning](www.know-center.tugraz.at/download_extern/papers/open_science.pdf)), in diesem Workshop beschäftigen wir uns mit:
+
+* Open Source und offenen Dateiformaten: Offene Dateiformate erleichtern den Austausch zwischen verschiedenen Plattformen (Betriebssysteme, Programme). Das machen wir im Teil *[Seminararbeit konvertieren)(#seminararbeit-konvertieren)*.
+* Open Data: Daten die im Zuge wissenschaftlicher Projekte erhoben werden sind ein wichtiger Forschungsbeitrag und verdienen mehr Aufmerksamkeit, welche sie als Open Data leichter erlangen. Daten offen zur Verfügung zu stellen ist auch wichtig um Forschung reproduzierbar zu machen. Wir können in diesem Workshop auch von euch gesammelte Daten hochladen, aus Datenschutzgründen erfordern diese aber gesonderte Aufmerksamkeit.
+* Open Access: Der Zugang zu den Ergebnissen von Wissenschaft sollte allen gleichermaßen offen stehen. Open Access bedeutet uneingeschränkten Zugang zu, aber auch das Recht auf Weiterverwendung und Weiterverbreitung von Werken. Dies wird ermöglich durch Creative Commons Lizenzen, die wir im Teil [Urheber_innenrecht](#urheber_innenrecht) genauer besprechen.
+* Open Educational Resources (OER): OER sind offene Lehr- und Lernmaterialien, die ebenfalls unter Creative Commons-Lizenz stehen und daher von allen verwendet, gemeinsam erweitert und verbessert werden können.
+
+#### Warum Open Science?
+
+Open Science
+
+* führt zu mehr Sichtbarkeit und damit zu mehr Zitationen
+* ermöglicht Nachvollziehbarkeit und Reproduzierbarkeit von Forschung
+* verringert Redundanz
 
 ## URHEBER_INNENRECHT
 Das Urheber_innenrecht ist die rechtliche Grundlage für geistiges Eigentum der Urheber im weiteren Sinne ([Urheber_innenrecht Österreich](https://de.wikipedia.org/wiki/Urheberrecht_(%C3%96sterreich))).
@@ -256,17 +281,22 @@ Capsicum Chili by Togo (CC BY-SA)
 ## SEMINARARBEIT HOCHLADEN
 Das Werk ist jetzt zwar befreit aber noch immer auf unserem Laptop eingesperrt. Wie ihr wisst, ist aber die freie Wildbahn die natürliche Umgebung von Wissen. Daher laden wir jetzt mal unsere Arbeiten auf ein offenes Repository im Internet hoch auf das dann jede und jeder zugreifen kann.
 
-
 **Zenodo**
 
+[Zenodo](https://zenodo.org/) ist ein offenes Repository für wissenschaftliche Werke. Man sollte sich aber auch immer umsehen, welche Repositorien in der eigenen wissenschaftlichen Community gibt. Dadurch können wir drei Vorteile erreichen:
 
-[Zenodo](https://zenodo.org/) ist ein offenes Repository für wissenschaftliche Werke. Man sollte sich aber auch immer umsehen, welche Repositorien in der eigenen wissenschaftlichen Community gibt.
+* Verbreitung durch öffentliches Online-Angebot des Werks oder der Daten
+* langfristige Speicherung durch Cloud-Server mit öffentlichem Interesse an Erhalt des Projekts
+* eindeutige Auffindbarkeit und leichte Zitierbarkeit durch [DOI](https://de.wikipedia.org/wiki/Digital_Object_Identifier)
 
-- Zenodo anmelden
-- Seminararbeit auf Zenodo hochladen: Achtung, dies ist rechtlich gesehen der wichtigste Punkt.
-- [Metadaten](https://de.wikipedia.org/wiki/Metadaten) eingeben: [DOI](https://de.wikipedia.org/wiki/Digital_Object_Identifier) für einfaches Zitieren.
+*Schritte:*
+
+* Zenodo-Account anlegen: Für eine Anmeldung auf Zenodo reicht eine email-Adresse aus. Man kann sich auf Zenodo aber auch mit einem [GitHub-Account](http://github.com/) oder unter einer [ORCID](http://orcid.org/) anmelden.
+* Befreite Arbeit liegt bereit: Achtung, dies ist rechtlich gesehen der wichtigste Punkt. Es ist zwar möglich eine Löschung eines Zenodo-Uploads zu beantragen, dies muss aber händisch geschehen. Es ist daher sinnvoll die Arbeit im Vorhinein genau zu prüfen (siehe Teil [Urheber_innenrecht](#urheber_innenrecht)).
+* Befreite Arbeit hochladen und [Metadaten](https://de.wikipedia.org/wiki/Metadaten) eingeben: Dazu gehören z.B. Autorenname, Veröffentlichungsdatum, Keywords und Lizenz.
 
 [OpenDataPortal](http://www.opendataportal.at/): Das OpenDataPortal ist ein Metadaten-Katalog, in dem bereits veröffentlichte Daten eingetragen werden können und so einfacher für andere auffindbar werden, besonders für Leute in Österreich.
+
 
 ## SEMINARARBEIT VERBREITEN
 So, jetzt ist das Wissen an sich schon befreit und auch für alle zugänglich. Soweit die Theorie. Doch das Wissen möchte gerne viele Leute kennen lernen auf der ganzen Welt und fühlt sich auf unserem Repositorium noch ein bisschen einsam und unnütz. Den Wissen ist erst so richtig glücklich, wenn es auf andere Menschen trifft. Deswegen werden wir uns jetzt die hilfreichsten Tools und Plattformen ansehen, um unsere Seminararbeiten in die große weite Welt hinaus zu posaunen und so das Wissen auf Reisen zu schicken.
