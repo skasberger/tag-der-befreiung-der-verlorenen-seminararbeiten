@@ -61,6 +61,7 @@ Die Inhalte stehen, soweit nicht explizit anders erwähnt, unter der [Creative C
 	- Welche Erwartungen habt ihr?
 	- Welchen wissenschaftlichen Hintergrund habt ihr?
 - Vorbereiten: 
+	- WLAN Verbindung der Teilnehmer_innen prüfen
 	- Twitter & Zenodo anmelden
 	- Libre Office runterladen und installieren
 
@@ -440,8 +441,12 @@ Feine Ergebnisse der WissKomm:
 ## SUM UP
 Am Schluss wird es noch einen Circle (Sitzkreis) geben, in dem wir den Workshop noch kurz reflektieren.
 
-## Follow Up's
+## FOLLOW UP'S
 - Seminararbeit auf dem [OpenDataPortal](http://opendataportal.at) eintragen.
+
+## REFERENCES
+- [Biorama Artikel über Workshop](http://www.biorama.eu/befreit-eure-verlorenen-seminararbeiten/)
+
 
 
 
