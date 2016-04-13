@@ -11,6 +11,7 @@ In dem Workshop werden wir verlorene Seminararbeiten finden und danach allen fre
 	- [Christopher Kittel](https://twitter.com/chris_kittel)  (Open Knowledge Austria)
 	- [Sonja Fischbauer](https://twitter.com/sonkiki) (Open Knowledge Austria)
 - [Website](http://www.wtz-ost.at/veranstaltungen/tag-der-befreiung-der-verlorenen-seminararbeiten/)
+- [Folien](http://www.slideshare.net/cheeseman1983/workshop-tag-der-befreiung-der-verlorenen-seminararbeiten)
 - [Etherpad](http://pad.okfn.org/p/wissenbefreien)
 - [#wissenbefreien](https://twitter.com/search?f=tweets&q=%23wissenbefreien&src=typd)
 
@@ -309,9 +310,9 @@ Die wichtigsten Kanäle:
 + [WordPress](https://wordpress.com/): Blogging Platform
 	- um kontinuierlich Wissen zu veröffentlichen. Kurze bis lange Posts. Looking behind the scences, Forschungstagebuch, etc.
 + [Slideshare](http://slideshare.net/): Stefan Kasberger: http://www.slideshare.net/cheeseman1983
-Analyse: Statistiken, besonders oft gesehen/ heruntergeladen, etc. Besonders oft gesehen/downgeloadet 
-Einbinden von Fremdwerken best practice: [Actor Network Theory](http://www.slideshare.net/cheeseman1983/introduction-actornetworktheory) Slide 14+15
-+ [Twitter](http://twitter.com/)
+	- [Analytics](http://www.slideshare.net/insight#summary/all/%3Frange%3D1y): Statistiken, besonders oft gesehen/ heruntergeladen, etc. 
+	- Einbinden von Fremdwerken best practice: [Actor Network Theory](http://www.slideshare.net/cheeseman1983/introduction-actornetworktheory) Slide 14+15
++ [Twitter](http://twitter.com/): Micro-blogging Plattform
 
 weitere Plattformen:
 - [Youtube](http://youtube.com/): Videos
