@@ -125,9 +125,9 @@ Wenn man geschlossene Werke nutzen möchte, muss man mit dem/der Rechteinhaber_i
 ### Freie Lizenzen
 
 [Open Definition](http://opendefinition.org/): Frei sind Werke die allen zur Nutzung, Veränderung und Verbreitung frei zur Verfügung stehen.
-```
-“Open means anyone can freely access, use, modify, and share for any purpose (subject, at most, to requirements that preserve provenance and openness).”
-```
+
+> Open means anyone can freely access, use, modify, and share for any purpose (subject, at most, to requirements that preserve provenance and openness).
+
 Die Open Definition ist keine Lizenz, aber es gibt Urheber_innenrechts-Lizenzen die damit kompatibel sind. [Creative Commons](https://creativecommons.org/) hat zum Beispiel verschiedene Lizenzbausteine, wovon nur die 
 - [Creative Commons Namensnennung](https://creativecommons.org/licenses/by/4.0/): CC BY, da nur Namensnennung erforderlich ist.
 - [Creative Commons Namensnennung-Weitergabe unter gleichen Bedingungen](https://creativecommons.org/licenses/by-sa/4.0/) CC BY-SA, da ein neues, daraus entstehendes Werk nur unter einer gleich freien Lizenz weiter gegeben werden darf (viraler Effekt, Copyleft)
@@ -138,7 +138,7 @@ Nicht mit der Open Definition kompatible Lizenzbausteine sind:
 - [Creative Commons Nicht-kommerziell](https://creativecommons.org/licenses/by-nc/4.0/): (CC NC), weil dadurch nicht alle das Werk nutzen dürfen. Ein großes Problem der non-commercial Klausel ist auch, das dies noch nie durchjudiziert worden ist und der Begriff nicht-kommerziell rechtlich sehr schwammig ist. Dies kann auch so ausgelegt werden, dass alle Organisationen, die Umsätze generieren, das Werk nicht verwenden können. Dies trifft oftmals auf Organisationen die man dabei gar nicht im Auge hat, wie zum Beispiel die Wikipedia, Zeitungen oder andere Open Projekte. 
 - [Creative Commons keine-Bearbeitung](https://creativecommons.org/licenses/by-nd/4.0/): (CC ND), weil das Verändern des Werkes nicht erlaubt ist.
 
-#### Selber Urheber_in / Werke befreien
+#### Selber Urheber_in: Werke frei zur Verfügung stellen
 Wenn man selber Urheber_in eines Werkes ist, ist das befreien ganz einfach. Es muss beim Werk nur ein Verweis auf die Lizenz angeführt werden (z. B. Creative Commons Icon, Abkürzung für Lizenz) sowie Name der/s Urheber_in.
 
 **Zu beachten**
@@ -220,6 +220,12 @@ optionale Angaben (zumeist für HTML Veröffentlichungen):
 **Häufigsten Fehler und Probleme**
 
 Das größte Problem sind zumeist Bildwerke, an denen man nicht die Rechte hat oder die nicht selbst erstellt wurden. Ähnlich wie auf sozialen Plattformen im Internet (z. B. Facebook), sind auch die meisten Abbildungen, Scan-Ins, Fotos und Infografiken in wissenschaftlichen Arbeiten während des Studiums nicht gesetzmäßig erworben bzw. genutzt. 
+
+**Quellen**
+- [Wikipedia: Commons](https://commons.wikimedia.org/wiki/Main_Page): Bilder
+- [Wikipedia: Exzellente Bilder](https://de.wikipedia.org/wiki/Wikipedia:Exzellente_Bilder): Bilder
+- [Creative Commons: Suche](http://search.creativecommons.org/): Bilder
+- [Flickr: Commons](https://www.flickr.com/commons): Bilder
 
 ## SEMINARARBEIT KONVERTIEREN
 Damit sich Wissen überhaupt mal bewegen kann, muss es erst mal technisch betrachtet das Gehen lernen. Dazu werden wir zuerst die technischen Voraussetzungen dafür schaffen, dass die Seminararbeit sich bewegen kann und unsere Werke in ein freies Dateiformat umwandeln.
