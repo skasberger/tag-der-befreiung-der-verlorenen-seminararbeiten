@@ -453,6 +453,7 @@ Am Schluss wird es noch einen Circle (Sitzkreis) geben, in dem wir den Workshop 
 
 ## REFERENCES
 - [Biorama Artikel über Workshop](http://www.biorama.eu/befreit-eure-verlorenen-seminararbeiten/)
+- [GitHub Repo: Raiders of the Lost Work](https://github.com/Bubblbu/raiders-of-the-lost-work): Asura Enkhbayar hat dieses Repo genommen und es für einen Workshop auf Englisch angepasst.
 
 
 
